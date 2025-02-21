@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VSlideMPad")(type "KiCad")(uri "C:/Users/artbe/Documents/Uni/Homebrewed/VolumeSliderMacroPad/VSlideMPad")(options "")(descr ""))
+)
