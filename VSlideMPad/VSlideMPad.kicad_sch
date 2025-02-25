@@ -1686,6 +1686,46 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 85.09) (xy 181.61 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0083b08e-5f7e-48da-8f5e-4ad2bcfa7f98")
+	)
+	(wire
+		(pts
+			(xy 182.88 95.25) (xy 182.88 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "028f5071-9b01-4f20-99a5-fd283a103ca0")
+	)
+	(wire
+		(pts
+			(xy 185.42 87.63) (xy 185.42 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02da195a-8e89-454c-9c8e-1105ecf605f5")
+	)
+	(wire
+		(pts
+			(xy 187.96 100.33) (xy 191.77 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08fa8c9b-aa7a-4966-a1ef-31d8c7759b08")
+	)
+	(wire
+		(pts
 			(xy 151.13 113.03) (xy 152.4 113.03)
 		)
 		(stroke
@@ -1693,6 +1733,36 @@
 			(type default)
 		)
 		(uuid "24b14435-ad00-4d83-82db-f62fc317119e")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.17) (xy 191.77 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28503eca-8ea7-472f-90af-4e0d6f306626")
+	)
+	(wire
+		(pts
+			(xy 179.07 127) (xy 194.31 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32037cc8-2f2e-4601-85d8-35734addeedf")
+	)
+	(wire
+		(pts
+			(xy 181.61 55.88) (xy 181.61 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3875afe6-a8fb-47b2-87fe-e9dc9d919553")
 	)
 	(wire
 		(pts
@@ -1716,6 +1786,26 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 85.09) (xy 191.77 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "680543bf-c6cf-465e-998c-5218d753c9cd")
+	)
+	(wire
+		(pts
+			(xy 185.42 68.58) (xy 204.47 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85494bb1-1769-4e15-8e37-b025099e892b")
+	)
+	(wire
+		(pts
 			(xy 152.4 113.03) (xy 152.4 110.49)
 		)
 		(stroke
@@ -1736,6 +1826,26 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 92.71) (xy 187.96 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beef49a8-6575-4488-997e-fb3598dcf0a6")
+	)
+	(wire
+		(pts
+			(xy 182.88 113.03) (xy 185.42 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bef41fb4-5b12-4cfb-9f5b-f7363076c907")
+	)
+	(wire
+		(pts
 			(xy 154.94 55.88) (xy 154.94 59.69)
 		)
 		(stroke
@@ -1744,17 +1854,211 @@
 		)
 		(uuid "c8a5dbe0-e1b4-4c8a-bc4f-b9b98e50c18b")
 	)
+	(wire
+		(pts
+			(xy 187.96 92.71) (xy 187.96 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3775179-a1dd-40d1-83ab-588ecbac285e")
+	)
+	(wire
+		(pts
+			(xy 162.56 97.79) (xy 179.07 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5a28371-bb21-4b32-81e1-d630347a2190")
+	)
+	(wire
+		(pts
+			(xy 162.56 87.63) (xy 185.42 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da3b7d94-4f68-4a56-9adb-e29481e3b8f9")
+	)
+	(wire
+		(pts
+			(xy 191.77 55.88) (xy 181.61 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daa17954-12cf-4ac0-96d9-f5ff4ede7377")
+	)
+	(wire
+		(pts
+			(xy 162.56 95.25) (xy 182.88 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e15aca03-4188-42ff-9007-ece9b309c206")
+	)
+	(wire
+		(pts
+			(xy 196.85 85.09) (xy 191.77 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5cf01c3-3d01-4244-923c-a4bb1bf4a285")
+	)
+	(wire
+		(pts
+			(xy 179.07 97.79) (xy 179.07 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa8a229a-f9e6-4f2e-9c45-ccef66c5f3de")
+	)
+	(symbol
+		(lib_id "PTA4543-2015DPB103:PTA4543-2015DPB103")
+		(at 190.5 113.03 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07284e1a-2cb8-4ba7-8364-55dc66a27c62")
+		(property "Reference" "R1"
+			(at 193.04 111.7599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PTA4543-2015DPB103"
+			(at 193.04 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PTA4543-2015DPB103:TRIM_PTA4543-2015DPB103"
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "04/21"
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "PTA4543-2015DPB103"
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Bourns"
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 190.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ce27a8a8-fd89-429c-9d42-0e9cfecf78d8")
+		)
+		(pin "2"
+			(uuid "3214291f-8ab5-4407-99f9-aef010f8ce36")
+		)
+		(pin "1"
+			(uuid "529c5838-9d26-4d0b-8001-a6cc914702d1")
+		)
+		(instances
+			(project "VSlideMPad"
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "POT_P120PK-x25_TTE:P120PK-Y25BR10K")
-		(at 199.39 82.55 90)
+		(at 199.39 45.72 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2038d947-ddae-4faf-9306-474f8a3833ea")
-		(property "Reference" "R1"
-			(at 201.93 71.1199 90)
+		(property "Reference" "R3"
+			(at 201.93 57.1501 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1763,7 +2067,7 @@
 			)
 		)
 		(property "Value" "P120PK-Y25BR10K"
-			(at 201.93 73.6599 90)
+			(at 201.93 54.6101 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1771,8 +2075,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VSlideMPad:POT_P120PK-x25_TTE"
-			(at 199.39 82.55 0)
+		(property "Footprint" "POT_P120PK-x25_TTE"
+			(at 199.39 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1782,7 +2086,7 @@
 			)
 		)
 		(property "Datasheet" "P120PK-Y25BR10K"
-			(at 199.39 82.55 0)
+			(at 199.39 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1792,7 +2096,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 82.55 0)
+			(at 199.39 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1810,9 +2114,264 @@
 			(uuid "a2ff0e5a-6092-4ccd-9b08-23a72cd56b77")
 		)
 		(instances
+			(project "VSlideMPad"
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PTA4543-2015DPB103:PTA4543-2015DPB103")
+		(at 199.39 127 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4ceb62f3-c35d-4c46-a5dc-28c10d8439d0")
+		(property "Reference" "R4"
+			(at 201.93 125.7299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PTA4543-2015DPB103"
+			(at 201.93 128.2699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PTA4543-2015DPB103:TRIM_PTA4543-2015DPB103"
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "04/21"
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "PTA4543-2015DPB103"
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Bourns"
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 199.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9ca13e4a-edff-4bfb-ae75-b2d3eb28b8cb")
+		)
+		(pin "2"
+			(uuid "c5dd54c9-1094-4ffb-a65c-6f9c010fdf7c")
+		)
+		(pin "1"
+			(uuid "e9517f11-ca84-41a1-b9f3-cb17703bad98")
+		)
+		(instances
+			(project "VSlideMPad"
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 199.39 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f7aa4a3-5e83-42e1-a311-5d0f5d81b8db")
+		(property "Reference" "#PWR08"
+			(at 199.39 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 199.39 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 199.39 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bf646cd-63d6-4454-b5ef-ea95c7b00c99")
+		)
+		(instances
 			(project ""
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
-					(reference "R1")
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 196.85 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "646601d4-a282-44c1-af6f-d6c48bf85f09")
+		(property "Reference" "#PWR05"
+			(at 196.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 196.85 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 196.85 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bf646cd-63d6-4454-b5ef-ea95c7b00c99")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -1820,15 +2379,16 @@
 	)
 	(symbol
 		(lib_id "POT_P120PK-x25_TTE:P120PK-Y25BR10K")
-		(at 247.65 83.82 90)
+		(at 204.47 74.93 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "209071a4-768d-4af7-a6b7-db16bfee829b")
-		(property "Reference" "R3"
-			(at 250.19 72.3899 90)
+		(uuid "68f4368d-17aa-4682-a6fc-bb78de26da6d")
+		(property "Reference" "R5"
+			(at 207.01 86.3601 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1837,7 +2397,7 @@
 			)
 		)
 		(property "Value" "P120PK-Y25BR10K"
-			(at 250.19 74.9299 90)
+			(at 207.01 83.8201 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1845,8 +2405,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VSlideMPad:POT_P120PK-x25_TTE"
-			(at 247.65 83.82 0)
+		(property "Footprint" "POT_P120PK-x25_TTE"
+			(at 204.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1856,7 +2416,7 @@
 			)
 		)
 		(property "Datasheet" "P120PK-Y25BR10K"
-			(at 247.65 83.82 0)
+			(at 204.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1866,7 +2426,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 83.82 0)
+			(at 204.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1875,18 +2435,18 @@
 			)
 		)
 		(pin "2"
-			(uuid "fff26f08-f7fe-49d7-bdbf-b3a06dd75b56")
+			(uuid "870c9b71-e0db-4d85-9ae9-dba854cd6856")
 		)
 		(pin "3"
-			(uuid "db4db366-997d-4771-a01b-d5498792460b")
+			(uuid "9041e2e1-bf7a-46b2-b103-a68c1028ff5a")
 		)
 		(pin "1"
-			(uuid "5f957687-b420-4ea3-b44b-38828456143f")
+			(uuid "3128c3b7-b732-494e-b380-f16f06a5a3d8")
 		)
 		(instances
 			(project "VSlideMPad"
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -1959,43 +2519,34 @@
 		)
 	)
 	(symbol
-		(lib_id "PTA4543-2015DPB103:PTA4543-2015DPB103")
-		(at 199.39 140.97 0)
+		(lib_id "power:GND")
+		(at 212.09 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9d432093-ddbb-4e9e-ac57-eb98fd8a99cd")
-		(property "Reference" "R7"
-			(at 199.39 134.62 0)
+		(uuid "8ebe10db-eea2-4dbf-b7e5-113488b37fb5")
+		(property "Reference" "#PWR013"
+			(at 212.09 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Value" "PTA4543-2015DPB103"
-			(at 199.39 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PTA4543-2015DPB103:TRIM_PTA4543-2015DPB103"
-			(at 199.39 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 199.39 140.97 0)
+		(property "Value" "GND"
+			(at 212.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,8 +2554,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 199.39 140.97 0)
+		(property "Datasheet" ""
+			(at 212.09 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2012,69 +2563,154 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "04/21"
-			(at 199.39 140.97 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 212.09 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
-		)
-		(property "SNAPEDA_PN" "PTA4543-2015DPB103"
-			(at 199.39 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Bourns"
-			(at 199.39 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
-			(at 199.39 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 199.39 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "92dcfd68-1697-4a6d-a72d-3fc13b4a56c9")
 		)
 		(pin "1"
-			(uuid "5a0f5528-7fec-4d08-9521-cb5b735364d4")
-		)
-		(pin "3"
-			(uuid "cb4b7cfc-90a4-4264-8047-1dacbb50aa9d")
+			(uuid "244c6aea-dd54-4a57-ac60-7571b27cc7ac")
 		)
 		(instances
 			(project ""
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
-					(reference "R7")
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 196.85 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a014aee-1e30-40a1-ab16-6c24a62f8da8")
+		(property "Reference" "#PWR06"
+			(at 196.85 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 196.85 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "244c6aea-dd54-4a57-ac60-7571b27cc7ac")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 212.09 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e3fb733-5872-459d-94c1-c3f5d5c90668")
+		(property "Reference" "#PWR012"
+			(at 212.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 212.09 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bf646cd-63d6-4454-b5ef-ea95c7b00c99")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -2236,43 +2872,34 @@
 		)
 	)
 	(symbol
-		(lib_id "PTA4543-2015DPB103:PTA4543-2015DPB103")
-		(at 248.92 121.92 0)
+		(lib_id "power:GND")
+		(at 190.5 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a9667448-506b-40a4-b7c0-899c60d97949")
-		(property "Reference" "R6"
-			(at 248.92 115.57 0)
+		(uuid "ac1fc9f0-0050-4851-80d7-34ae18093746")
+		(property "Reference" "#PWR04"
+			(at 190.5 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Value" "PTA4543-2015DPB103"
-			(at 248.92 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PTA4543-2015DPB103:TRIM_PTA4543-2015DPB103"
-			(at 248.92 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 248.92 121.92 0)
+		(property "Value" "GND"
+			(at 190.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2280,8 +2907,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 248.92 121.92 0)
+		(property "Datasheet" ""
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2289,69 +2916,22 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "04/21"
-			(at 248.92 121.92 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
-		)
-		(property "SNAPEDA_PN" "PTA4543-2015DPB103"
-			(at 248.92 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Bourns"
-			(at 248.92 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
-			(at 248.92 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 248.92 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "92dcfd68-1697-4a6d-a72d-3fc13b4a56c9")
 		)
 		(pin "1"
-			(uuid "5a0f5528-7fec-4d08-9521-cb5b735364d4")
-		)
-		(pin "3"
-			(uuid "cb4b7cfc-90a4-4264-8047-1dacbb50aa9d")
+			(uuid "244c6aea-dd54-4a57-ac60-7571b27cc7ac")
 		)
 		(instances
 			(project ""
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
-					(reference "R6")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2359,15 +2939,16 @@
 	)
 	(symbol
 		(lib_id "POT_P120PK-x25_TTE:P120PK-Y25BR10K")
-		(at 199.39 106.68 90)
+		(at 212.09 58.42 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b825371d-7de8-4c5c-8812-dd37072640a0")
-		(property "Reference" "R2"
-			(at 201.93 95.2499 90)
+		(property "Reference" "R6"
+			(at 214.63 69.8501 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -2376,7 +2957,7 @@
 			)
 		)
 		(property "Value" "P120PK-Y25BR10K"
-			(at 201.93 97.7899 90)
+			(at 214.63 67.3101 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -2384,8 +2965,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "VSlideMPad:POT_P120PK-x25_TTE"
-			(at 199.39 106.68 0)
+		(property "Footprint" "POT_P120PK-x25_TTE"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2395,7 +2976,7 @@
 			)
 		)
 		(property "Datasheet" "P120PK-Y25BR10K"
-			(at 199.39 106.68 0)
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +2986,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 106.68 0)
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2425,7 +3006,139 @@
 		(instances
 			(project "VSlideMPad"
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
-					(reference "R2")
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 199.39 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb5f4470-e1b8-47f1-9087-d57f0dc060f1")
+		(property "Reference" "#PWR07"
+			(at 199.39 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 199.39 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 199.39 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bf646cd-63d6-4454-b5ef-ea95c7b00c99")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 190.5 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1ceafa8-02c7-4000-a87c-500c4db3be8f")
+		(property "Reference" "#PWR03"
+			(at 190.5 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 190.5 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 190.5 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 190.5 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bf646cd-63d6-4454-b5ef-ea95c7b00c99")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2433,17 +3146,15 @@
 	)
 	(symbol
 		(lib_id "PTA4543-2015DPB103:PTA4543-2015DPB103")
-		(at 199.39 120.65 270)
-		(mirror x)
+		(at 196.85 100.33 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "de06df2b-f3ca-4bb6-ae7a-5978d9b411f8")
-		(property "Reference" "R5"
-			(at 201.93 119.3799 90)
+		(property "Reference" "R2"
+			(at 199.39 101.6001 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2452,7 +3163,7 @@
 			)
 		)
 		(property "Value" "PTA4543-2015DPB103"
-			(at 201.93 121.9199 90)
+			(at 199.39 99.0601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2461,7 +3172,7 @@
 			)
 		)
 		(property "Footprint" "PTA4543-2015DPB103:TRIM_PTA4543-2015DPB103"
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2471,7 +3182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2480,7 +3191,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2489,7 +3200,7 @@
 			)
 		)
 		(property "PARTREV" "04/21"
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2499,7 +3210,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "PTA4543-2015DPB103"
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2509,7 +3220,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Bourns"
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2519,7 +3230,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2529,7 +3240,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 199.39 120.65 0)
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2548,9 +3259,141 @@
 			(uuid "e08988e4-f9ee-4faf-8943-798a8485c8c1")
 		)
 		(instances
+			(project "VSlideMPad"
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 199.39 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5fb5a0a-0405-4e35-9033-da63b40d77ac")
+		(property "Reference" "#PWR09"
+			(at 199.39 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 199.39 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 199.39 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3227d344-5983-4c41-ad38-9af4d6bd9e44")
+		)
+		(instances
 			(project ""
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
-					(reference "R5")
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 204.47 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f490ff7d-50d1-4f4f-aa86-0eda29516b3a")
+		(property "Reference" "#PWR011"
+			(at 204.47 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 204.47 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "244c6aea-dd54-4a57-ac60-7571b27cc7ac")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -2617,6 +3460,72 @@
 			(project ""
 				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 204.47 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe1f0994-6dcd-4ef6-a352-a15410dc6786")
+		(property "Reference" "#PWR010"
+			(at 204.47 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 204.47 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 204.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bf646cd-63d6-4454-b5ef-ea95c7b00c99")
+		)
+		(instances
+			(project ""
+				(path "/8ba016b1-0249-4304-9ab0-63c4f54fb05f"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
