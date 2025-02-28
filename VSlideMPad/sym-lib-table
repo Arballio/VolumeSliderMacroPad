@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MC14490DWG")(type "KiCad")(uri "${KIPRJMOD}/MC14490DWG.kicad_sym")(options "")(descr ""))
+)
