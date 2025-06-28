@@ -6140,5 +6140,28 @@
 		(net 39)
 		(uuid "e4193d28-b418-4cbb-be5f-982a54794017")
 	)
+	(zone
+		(net 8)
+		(net_name "GND")
+		(layers "F.Cu" "B.Cu")
+		(uuid "6c0bae3a-2efe-4fb3-bf3d-9a0d0d15c6c8")
+		(name "Ground plane")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 76.97456 42.926) (xy 76.97456 42.926) (xy 155.448 42.926) (xy 156.718 134.112) (xy 75.184 134.366)
+				(xy 76.2 89.916)
+			)
+		)
+	)
 	(embedded_fonts no)
 )
